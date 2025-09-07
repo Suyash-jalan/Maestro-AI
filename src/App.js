@@ -13,7 +13,7 @@ function App() {
   const [file, setFile] = useState(null);
   const [preview, setPreview] = useState("");
 
-  const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "http://localhost:3001";
+  const BACKEND_URL = process.env.aibackend_URL || "https://maestro-ai-backend-4.onrender.com";
   const { listening, transcript, start, stop: speechStop, speak, isSupported, cancel } = useSpeech();
   const submitted = useRef(false);
 
