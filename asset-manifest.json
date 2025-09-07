@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Suyash-jalan/Maestro-AI/static/css/main.4e9d07b1.css",
+    "main.js": "/Suyash-jalan/Maestro-AI/static/js/main.f68a6d09.js",
+    "index.html": "/Suyash-jalan/Maestro-AI/index.html",
+    "main.4e9d07b1.css.map": "/Suyash-jalan/Maestro-AI/static/css/main.4e9d07b1.css.map",
+    "main.f68a6d09.js.map": "/Suyash-jalan/Maestro-AI/static/js/main.f68a6d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9d07b1.css",
+    "static/js/main.f68a6d09.js"
+  ]
+}
